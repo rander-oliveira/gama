@@ -1,0 +1,115 @@
+/*Amarelo #F5C505 azul #30D9C8 vermelho #F51140*/
+
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+	padding-top: 170px;
+}
+
+@media (min-width: 768px) {
+	.navbar-header {
+		float: none !important;
+	}
+}
+
+.navbar-header a{
+	display: block;
+	text-align: center;
+}
+
+.navbar-header a img{
+  padding: 10px 0 5px 0;
+	height: 140px !important;
+}
+
+.navbar-brand {
+	height: auto;
+}
+
+.navbar-toggle.collapsed{
+	display: none !important;
+}
+
+.cta {
+  margin-bottom: 25px;
+}
+
+.container .btn-cta {
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+.modal-header {
+  padding: 5px !important;
+}
+
+footer{
+  margin-top: 30px;
+  color: #666;
+  text-align: center;
+  font-size: 9pt;
+  height: 40px;
+}
+
+footer .glyphicon{
+  font-size: 7pt;
+}
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.marketing h2 {
+  font-weight: normal;
+  color: #30D9C8
+}
+.marketing h5 {
+	/*color: #F51140*/
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.marketing h2.a{
+	color: #F5C505
+}
+.marketing h2.b{
+	color: #30D9C8
+}
+.marketing h2.c{
+	color: #F51140
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+  /* Navbar positioning foo */
+  .navbar-wrapper {
+    margin-top: 20px;
+  }
+  .navbar-wrapper .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .navbar-wrapper .navbar {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  /* The navbar becomes detached from the top, so we round the corners */
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+}
