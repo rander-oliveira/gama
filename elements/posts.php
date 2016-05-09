@@ -25,6 +25,28 @@
 	</div><!-- /.col-lg-4 -->
 </div><!-- /.row -->
 
+
+<div class="row">
+	<div class="col-lg-4">
+		<img class="img-circle" src="<?php echo IMAGE_PATH ?>usr_gif_1.gif" alt="GIF" width="140" height="140" />
+		<h2 class="a">Site não muito inteligente</h2>
+		<h5>Vagas.com</h5>
+		<p>Sempre que me cadastro não aparece vagas para mim. O site não é muito inteligente, manda vagas nada a ver com meu perfil. Isso é péssimo, pois faz três meses que estou desempregada e o site ainda não ajuda! </p>
+	</div>
+	<div class="col-lg-4">
+		<img class="img-circle" src="<?php echo IMAGE_PATH ?>usr_gif_2.gif" alt="GIF" width="140" height="140" />
+		<h2 class="a">Demora no atendimento</h2>
+		<h5>Oi</h5>
+		<p>Na última vez que tentei mudar de plano, fiquei 30min aguardando atendimento e no fim não consegui resolver o problema. Ainda estou com o mesmo plano e insatisfeita.</p>
+	</div>
+	<div class="col-lg-4">
+		<img class="img-circle" src="<?php echo IMAGE_PATH ?>usr_gif_3.gif" alt="GIF" width="140" height="140" />
+		<h2 class="a">Atendimento ruim</h2>
+		<h5>Tim</h5>
+		<p>Precisava de créditos para o celular, comprei um cartão pré-pago em uma banca de jornais. Segui as instruções escritas no cartão que era ligar para *233. Quando liguei nenhuma das opções era a opção para digitar o código de recarga descrita no cartão pré-pago. Falei com a atendente e numa delas sabiam qual opções selecionar. Joguei meu dinheiro fora, o cartão e fiquei sem crédito.</p>
+	</div>
+</div>
+
 <!--
 ESTRUTURA BASE
 
