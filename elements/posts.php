@@ -28,22 +28,43 @@
 
 <div class="row">
 	<div class="col-lg-4">
-		<img class="img-circle" src="<?php echo IMAGE_PATH ?>usr_gif_1.gif" alt="GIF" width="140" height="140" />
+		<img class="img-circle" src="<?php echo IMAGE_PATH ?>usr_gif_4.gif" alt="GIF" width="140" height="140" />
 		<h2 class="a">Site não muito inteligente</h2>
 		<h5>Vagas.com</h5>
 		<p>Sempre que me cadastro não aparece vagas para mim. O site não é muito inteligente, manda vagas nada a ver com meu perfil. Isso é péssimo, pois faz três meses que estou desempregada e o site ainda não ajuda! </p>
 	</div>
 	<div class="col-lg-4">
-		<img class="img-circle" src="<?php echo IMAGE_PATH ?>usr_gif_2.gif" alt="GIF" width="140" height="140" />
-		<h2 class="a">Demora no atendimento</h2>
+		<img class="img-circle" src="<?php echo IMAGE_PATH ?>usr_gif_5.gif" alt="GIF" width="140" height="140" />
+		<h2 class="b">Demora no atendimento</h2>
 		<h5>Oi</h5>
 		<p>Na última vez que tentei mudar de plano, fiquei 30min aguardando atendimento e no fim não consegui resolver o problema. Ainda estou com o mesmo plano e insatisfeita.</p>
 	</div>
 	<div class="col-lg-4">
-		<img class="img-circle" src="<?php echo IMAGE_PATH ?>usr_gif_3.gif" alt="GIF" width="140" height="140" />
-		<h2 class="a">Atendimento ruim</h2>
+		<img class="img-circle" src="<?php echo IMAGE_PATH ?>usr_gif_6.gif" alt="GIF" width="140" height="140" />
+		<h2 class="c">Atendimento ruim</h2>
 		<h5>Tim</h5>
 		<p>Precisava de créditos para o celular, comprei um cartão pré-pago em uma banca de jornais. Segui as instruções escritas no cartão que era ligar para *233. Quando liguei nenhuma das opções era a opção para digitar o código de recarga descrita no cartão pré-pago. Falei com a atendente e numa delas sabiam qual opções selecionar. Joguei meu dinheiro fora, o cartão e fiquei sem crédito.</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-lg-4">
+		<img class="img-circle" src="<?php echo IMAGE_PATH ?>usr_gif_3.gif" alt="GIF" width="140" height="140" />
+		<h2 class="a">Demora no atendimento</h2>
+		<h5>Volkswagen</h5>
+		<p>Excedeu 27 dias do prazo de entrega</p>
+	</div>
+	<div class="col-lg-4">
+		<img class="img-circle" src="<?php echo IMAGE_PATH ?>usr_gif_1.gif" alt="GIF" width="140" height="140" />
+		<h2 class="b">Atendimento ruim</h2>
+		<h5>Oi</h5>
+		<p>Marquei horário para reparo de internet e telefone em minha residência, a empresa não compareceu no prazo marcado, quando liguei pra saber o que havia ocorrido o atendente disse que eu deveria aprender a esperar e que cada vez que eu ligasse minha visita seria remarcada para um data mais distante</p>
+	</div>
+	<div class="col-lg-4">
+		<img class="img-circle" src="<?php echo IMAGE_PATH ?>usr_gif_2.gif" alt="GIF" width="140" height="140" />
+		<h2 class="c">Produto de péssima qualidade</h2>
+		<h5>Tim</h5>
+		<p>Oferecem um pacote de dados muito ruim pelo preço que cobram pelo mesmo.</p>
 	</div>
 </div>
 
