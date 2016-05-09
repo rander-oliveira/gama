@@ -33,6 +33,11 @@ body {
 	display: none !important;
 }
 
+.container.basic-like {
+  text-align: right;
+  margin-bottom: 20px;
+}
+
 .cta {
   margin-bottom: 25px;
 }
@@ -44,6 +49,11 @@ body {
 
 .modal-header {
   padding: 5px !important;
+}
+
+.container.fb {
+  margin-top: 20px;
+  text-align: center;
 }
 
 footer{
