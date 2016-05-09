@@ -1,3 +1,3 @@
 $(document).ready(function(){
-	// $("#cta button").trigger("click");
+	 $("#cta button").trigger("click");
 });
