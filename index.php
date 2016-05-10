@@ -50,11 +50,11 @@
 		<div class="container">
 			<?php include(ELEMENTS_PATH."presentation.php") ?>
 		</div>
-
+<!--
 		<div class="container basic-like">
 			<?php include (ELEMENTS_PATH."basic_like.php"); ?>
 		</div>
-
+-->
 		<div class="container cta" id="cta">
 			<?php include(ELEMENTS_PATH."btn_cta.php"); ?>
 		</div>
