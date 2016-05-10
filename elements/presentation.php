@@ -3,10 +3,12 @@
 <span>
 
 	<center>
+		<b>
 		<p>Já sentiu vontade de reclamar de algum produto ou serviço?</p>
 		<p>Quer que as empresas realmente te escutem?</p>
 		<p>Agora você tem um espaço para isso!</p>
 		<p>Vem contar pra gente sua história!</p>
+		</b>
 
 	</center>
 
