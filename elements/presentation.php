@@ -1,5 +1,5 @@
 <!-- inserir aqui a apresentação do blog -->
-
+<!--
 <span>
 
 	<center>
@@ -13,5 +13,5 @@
 	</center>
 
 </span>
-
+-->
  <!--Além de um conteúdo voltado para mostrar a importância de valorizar um cliente e como fazer isso.-->
