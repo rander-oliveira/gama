@@ -49,24 +49,12 @@
 
 		<div class="container presentation">
 			<?php include(ELEMENTS_PATH."presentation.php") ?>
-		</div>		
-<!--
-		<div class="container basic-like">
-			<?php include (ELEMENTS_PATH."basic_like.php"); ?>
 		</div>
 
-		<div class="container cta" id="cta">
-			<?php include(ELEMENTS_PATH."btn_cta.php"); ?>
-		</div>
--->
-	    <div class="container marketing">
-			<?php include ELEMENTS_PATH."posts.php"; ?>
-	    </div><!-- /.container -->
-<!--
-	    <div class="container">
-	    	<?php include(ELEMENTS_PATH."btn_cta.php"); ?>
+	    <div class="container features">
+	    	<?php include ELEMENTS_PATH."company.php"; ?>
 	    </div>
--->
+
 	    <div class="container fb">
 	    	<?php include(ELEMENTS_PATH."facebook_page.php"); ?>
 	    </div>
