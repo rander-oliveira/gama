@@ -1,5 +1,10 @@
 /*Amarelo #F5C505 azul #30D9C8 vermelho #F51140*/
 
+@font-face {
+    font-family: Sniglet;
+    src: url(Sniglet-Regular.otf);
+}
+
 html {
 	position: relative;
 	min-height: 100%;
@@ -39,12 +44,15 @@ body {
 }
 
 .container.presentation {
+  text-align: center;
+  padding-top: 50px;
   margin-bottom: 40px;
-  background-image: url("presentation_background.png");
-  background-position: center center;
-  background-size: cover; 
   width: 100%;
-  height: 200px
+  height: 180px;
+  font-family: Sniglet;
+  background-color: #58C3BC;
+  font-size: 20pt;
+  color: #FFFFFF;
 }
 
 .cta {
