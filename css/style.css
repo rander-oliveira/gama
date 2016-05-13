@@ -11,23 +11,25 @@ html {
 }
 
 body {
-	padding-top: 170px;
+	padding-top: 150px;
 }
 
 @media (min-width: 768px) {
 	.navbar-header {
-		float: none !important;
+		float: none !important;		
 	}
 }
 
 .navbar-header a{
 	display: block;
-	text-align: center;
+	text-align: center;	
 }
 
 .navbar-header a img{
   padding: 10px 0 5px 0;
-	height: 140px !important;
+	height: 110px;
+	-webkit-transition: all 0.4s ease;
+	transition: all 0.4s ease;
 }
 
 .navbar-brand {
@@ -43,16 +45,17 @@ body {
   margin-bottom: 20px;
 }
 
-.container.presentation {
-  text-align: center;
-  padding-top: 50px;
+.container.presentation {  
+  padding-top: 28px;
   margin-bottom: 20px;
   width: 100%;
-  height: 180px;
+  height: 120px;
+  text-align: center;
+  line-height: normal;
   font-family: Sniglet;
-  background-color: #58C3BC;
-  font-size: 20pt;
+  font-size: 18pt;
   color: #FFFFFF;
+  background-color: #58C3BC;
 }
 
 .cta {
@@ -151,5 +154,37 @@ footer .glyphicon{
   /* The navbar becomes detached from the top, so we round the corners */
   .navbar-wrapper .navbar {
     border-radius: 4px;
+  }
+  
+  nav a {
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+  font-size: 18px;
+  }
+
+/*REDUÇÃO AUTOMÁTICA DA BARRA DE NAVEGAÇÃO */
+nav.navbar.shrink {
+  min-height: 35px;
+}
+
+nav.shrink .navbar-header a img{
+  padding: 10px 0 5px 0;
+  height: 95px;
+}
+}
+
+/*VERSÃO MOBILE*/
+@media (max-width: 500px) {
+  body {
+	padding-top: 110px;
+  }
+  
+  nav.navbar.shrink {
+    min-height: 35px;
+  }
+
+  nav.shrink .navbar-header a img{
+    padding: 10px 0 5px 0;
+    height: 90px;
   }
 }

@@ -41,6 +41,17 @@
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 		<meta name="theme-color" content="#ffffff">
+		
+		<!-- Open Graph tags -->
+		<meta property="og:site_name" content="Clientes Satisfeitos">
+		<meta property="og:url" content="http://www.clientessatisfeitos.com.br/">
+		<meta name="description" content="Somos um blog sobre gestão de satisfação de clientes! Acesse e saiba mais sobre como gerenciar e monitorar a satisfação e fidelidade dos seus clientes." />
+		<meta name="keywords" content="satisfação de clientes, clientes, atendimento, fidelização de clientes, imagem empresarial, gestão empresarial, planejamento estratégico," />
+		<meta name="robots" content="index, follow">
+		<meta property="og:image" content="http://www.clientessatisfeitos.com.br/media/logo_fb.png">
+		<meta property="og:image:type" content="image/png">
+		<!--<meta property="og:image:width" content="200"> /** PIXELS **/
+		<meta property="og:image:height" content="227"> /** PIXELS **/-->
 	</head>
 	<body>
 		<div id="fb-root"></div>
